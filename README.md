@@ -1,6 +1,7 @@
 # Helmet Segmentation Using YOLOv8
 
-https://github.com/farukalampro/helmet-segmentation-using-yolov8/assets/92469073/89c8187b-7e74-4c94-a6d9-bfbf7f033f36
+![farukalampro-helmet-segmentation-using-yolov8](https://github.com/farukalampro/helmet-segmentation-using-yolov8/assets/92469073/920417f6-210c-405c-ae45-f3f3a3c2b459)
+
 
 ## Overview
 
