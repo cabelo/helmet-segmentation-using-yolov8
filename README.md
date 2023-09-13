@@ -22,7 +22,7 @@ Example:
 Provide step-by-step instructions on how to install and set up your project, including any necessary code dependencies or configuration steps.
 
 Example:
-1. Clone this repository: `git clone https://github.com/yourusername/helmet-segmentation-using-yolov8.git`
+1. Clone this repository: `git clone https://github.com/farukalampro/helmet-segmentation-using-yolov8.git`
 2. Install Python dependencies: `pip install -r requirements.txt`
 3. Download the pre-trained YOLOv8 weights (link here) and place them in the `weights/` directory.
 
